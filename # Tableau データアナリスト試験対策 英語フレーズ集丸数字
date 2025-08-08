@@ -1,0 +1,431 @@
+# Tableau データアナリスト試験対策 英語フレーズ集
+*Tableau Certified Data Analyst 試験突破のための専門英語*
+
+## 📋 試験概要・基本情報
+
+### 試験形式でよく使われる表現
+
+①「Select the correct answer」
+→ 正しい答えを選択してください
+★重要度：★★★
+
+②「Drag and drop the field」
+→ フィールドをドラッグ&ドロップしてください
+★重要度：★★★
+
+③「Which of the following statements is true?」
+→ 以下のうち正しい記述はどれですか？
+★重要度：★★★
+
+④「Complete the following task」
+→ 以下のタスクを完了してください
+★重要度：★★★
+
+⑤「Based on the given dataset」
+→ 与えられたデータセットに基づいて
+★重要度：★★★
+
+## 🔌 データ接続・ソース管理
+
+### 接続関連用語
+
+①「Live Connection」
+→ ライブ接続
+★試験頻出度：★★★
+
+②「Extract」
+→ 抽出
+★試験頻出度：★★★
+
+③「Data Source Filter」
+→ データソースフィルター
+★試験頻出度：★★★
+
+④「Context Filter」
+→ コンテキストフィルター
+★試験頻出度：★★★
+
+⑤「Join」
+→ 結合
+★試験頻出度：★★★
+
+⑥「Union」
+→ ユニオン
+★試験頻出度：★★
+
+⑦「Blend」
+→ ブレンド
+★試験頻出度：★★
+
+⑧「Cross-database Join」
+→ クロスデータベース結合
+★試験頻出度：★★
+
+### よく出る問題パターン
+
+①「Which join type would you use to...」
+→ ...するためにはどの結合タイプを使いますか？
+★ポイント：Inner/Left/Right/Full Outer Joinの使い分け
+
+②「When should you use an extract instead of live connection?」
+→ ライブ接続の代わりに抽出を使うべきなのはいつですか？
+★ポイント：パフォーマンス改善
+
+③「What is the difference between joining and blending?」
+→ 結合とブレンドの違いは何ですか？
+★ポイント：同一データソース vs 異なるデータソース
+
+## 📊 データ探索・分析
+
+### 分析機能用語
+
+①「Quick Table Calculation」
+→ クイックテーブル計算
+★試験重要度：★★★
+
+②「Running Total」
+→ 累計
+★試験重要度：★★★
+
+③「Percent of Total」
+→ 全体に対する割合
+★試験重要度：★★★
+
+④「Moving Average」
+→ 移動平均
+★試験重要度：★★★
+
+⑤「Rank」
+→ ランク
+★試験重要度：★★★
+
+⑥「Percentile」
+→ パーセンタイル
+★試験重要度：★★
+
+⑦「Year over Year Growth」
+→ 前年同期比成長率
+★試験重要度：★★
+
+⑧「Compound Annual Growth Rate (CAGR)」
+→ 年平均成長率
+★試験重要度：★★
+
+### 統計・分析フレーズ
+
+①「Calculate the year-over-year growth」
+→ 前年同期比成長率を計算する
+★使用場面：時系列分析
+
+②「Add a reference line showing the average」
+→ 平均を示す参照線を追加する
+★使用場面：参照線機能
+
+③「Create a calculated field to determine...」
+→ ...を決定する計算フィールドを作成する
+★使用場面：計算フィールド
+
+④「Show the top 10 customers by sales」
+→ 売上上位10顧客を表示する
+★使用場面：Top N フィルター
+
+## 📈 可視化・ダッシュボード
+
+### チャートタイプ
+
+①「Bar Chart」
+→ 棒グラフ
+★適用場面：カテゴリ比較
+
+②「Line Chart」
+→ 折れ線グラフ
+★適用場面：時系列データ
+
+③「Scatter Plot」
+→ 散布図
+★適用場面：相関分析
+
+④「Heat Map」
+→ ヒートマップ
+★適用場面：マトリックス表示
+
+⑤「Tree Map」
+→ ツリーマップ
+★適用場面：階層データ
+
+⑥「Box Plot」
+→ 箱ひげ図
+★適用場面：分布分析
+
+⑦「Histogram」
+→ ヒストグラム
+★適用場面：度数分布
+
+⑧「Bullet Graph」
+→ ブレットグラフ
+★適用場面：KPI表示
+
+### ダッシュボード機能
+
+①「Dashboard Action」
+→ ダッシュボードアクション
+★試験頻出：★★★
+
+②「Filter Action」
+→ フィルターアクション
+★試験頻出：★★★
+
+③「Highlight Action」
+→ ハイライトアクション
+★試験頻出：★★
+
+④「URL Action」
+→ URLアクション
+★試験頻出：★★
+
+⑤「Container」
+→ コンテナ
+★試験頻出：★★
+
+⑥「Floating」
+→ フローティング
+★試験頻出：★★
+
+⑦「Tiled」
+→ タイル
+★試験頻出：★★
+
+### よく出る設問パターン
+
+①「Which chart type is most appropriate for showing...」
+→ ...を表示するのに最も適切なチャートタイプは？
+★対策ポイント：各チャートの特性を理解
+
+②「How would you create an interactive dashboard that...」
+→ ...するインタラクティブなダッシュボードをどう作成しますか？
+★対策ポイント：アクション機能の理解
+
+③「What is the best practice for dashboard design?」
+→ ダッシュボード設計のベストプラクティスは？
+★対策ポイント：UX原則の理解
+
+## 🧮 計算・パラメーター
+
+### 計算関数（頻出）
+
+①「IF THEN ELSE」
+→ 条件分岐
+★用法例：IF [Sales] > 1000 THEN "High" ELSE "Low" END
+
+②「CASE WHEN」
+→ 複数条件分岐
+★用法例：CASE [Region] WHEN "East" THEN 1 ELSE 0 END
+
+③「DATEPART」
+→ 日付部分抽出
+★用法例：DATEPART('year', [Order Date])
+
+④「DATEDIFF」
+→ 日付差分
+★用法例：DATEDIFF('day', [Order Date], [Ship Date])
+
+⑤「SUM」
+→ 合計
+★用法例：SUM([Sales])
+
+⑥「AVG」
+→ 平均
+★用法例：AVG([Profit])
+
+⑦「COUNT」
+→ カウント
+★用法例：COUNT([Customer ID])
+
+⑧「COUNTD」
+→ 重複除外カウント
+★用法例：COUNTD([Customer ID])
+
+### LOD表現（Level of Detail）
+
+①「FIXED」
+→ 固定
+★使用例：{FIXED [Customer] : SUM([Sales])}
+
+②「INCLUDE」
+→ 包含
+★使用例：{INCLUDE [Region] : AVG([Sales])}
+
+③「EXCLUDE」
+→ 除外
+★使用例：{EXCLUDE [Month] : SUM([Sales])}
+
+### パラメーター関連
+
+①「Create a parameter to control...」
+→ ...を制御するパラメーターを作成
+★試験での扱い：パラメーター作成
+
+②「Use the parameter in a calculated field」
+→ 計算フィールドでパラメーターを使用
+★試験での扱い：パラメーター活用
+
+③「Set up parameter actions」
+→ パラメーターアクションを設定
+★試験での扱い：アクション連携
+
+## ⚡ パフォーマンス最適化
+
+### パフォーマンス用語
+
+①「Query Optimization」
+→ クエリ最適化
+★最適化効果：高
+
+②「Extract Optimization」
+→ 抽出最適化
+★最適化効果：高
+
+③「Context Filter」
+→ コンテキストフィルター
+★最適化効果：中
+
+④「Data Source Filter」
+→ データソースフィルター
+★最適化効果：高
+
+⑤「Aggregation」
+→ 集約
+★最適化効果：中
+
+⑥「Indexing」
+→ インデックス作成
+★最適化効果：高
+
+### 最適化に関する問題
+
+①「Which method would improve dashboard performance?」
+→ ダッシュボードのパフォーマンスを改善する方法は？
+★解答のポイント：抽出、フィルター、集約の活用
+
+②「When should you use context filters?」
+→ コンテキストフィルターを使うべきなのは？
+★解答のポイント：計算順序とパフォーマンス
+
+③「How can you optimize a slow-loading visualization?」
+→ 読み込みが遅い可視化を最適化するには？
+★解答のポイント：データ量削減、計算簡素化
+
+## 🚀 公開・共有
+
+### 公開関連用語
+
+①「Tableau Server」
+→ Tableau Server
+★重要度：★★★
+
+②「Tableau Cloud」
+→ Tableau Cloud
+★重要度：★★★
+
+③「Permissions」
+→ 権限
+★重要度：★★★
+
+④「Project」
+→ プロジェクト
+★重要度：★★
+
+⑤「Site」
+→ サイト
+★重要度：★★
+
+⑥「Subscription」
+→ サブスクリプション
+★重要度：★★
+
+⑦「Embedding」
+→ 埋め込み
+★重要度：★
+
+### 共有・権限管理
+
+①「Set view permissions for users」
+→ ユーザーの閲覧権限を設定
+★試験での扱い：権限管理
+
+②「Schedule extract refresh」
+→ 抽出更新をスケジュール
+★試験での扱い：自動更新
+
+③「Configure row-level security」
+→ 行レベルセキュリティを設定
+★試験での扱い：セキュリティ
+
+## 📝 試験対策・実践問題例
+
+### 典型的な問題形式
+
+【データ接続問題】
+"You have two tables: Orders and Customers. Which join type would you use to show all customers, including those who haven't placed any orders?"
+
+★答え：Left Join (Customers を左テーブルとして)
+
+【計算問題】
+"Create a calculated field that categorizes sales as:
+- 'High' if sales > 1000
+- 'Medium' if sales between 500-1000  
+- 'Low' if sales < 500"
+
+★答え：IF [Sales] > 1000 THEN "High" ELSEIF [Sales] >= 500 THEN "Medium" ELSE "Low" END
+
+【LOD問題】
+"Calculate the average sales per customer across all regions, regardless of the current view level of detail."
+
+★答え：{FIXED [Customer] : AVG([Sales])}
+
+## 🎯 試験対策のコツ
+
+### 📚 学習ステップ
+
+①用語暗記（2週間）
+→ 基本用語500語を完全習得
+
+②機能理解（3週間）
+→ 各機能の英語での操作手順をマスター
+
+③問題演習（2週間）
+→ 英語での模擬問題を反復練習
+
+④総仕上げ（1週間）
+→ 時間制限ありの模擬試験
+
+### 💡 効果的な勉強法
+
+①英語Tableauで練習
+→ 言語設定を英語に変更して操作に慣れる
+
+②公式ドキュメント
+→ Tableau公式の英語ドキュメントを読む
+
+③YouTube
+→ 英語のTableauチュートリアル動画を視聴
+
+④コミュニティ
+→ Tableau Community Forumで英語での質問・回答を読む
+
+### ⚠️ よくある落とし穴
+
+①機能名の混同
+→ "Join" vs "Blend" vs "Union"の違い
+
+②計算順序
+→ Context Filter の適用タイミング
+
+③LOD表現
+→ FIXED/INCLUDE/EXCLUDEの使い分け
+
+④パフォーマンス
+→ 最適化手法の優先順位
+
+---
+*この フレーズ集で Tableau Certified Data Analyst 試験に自信を持って臨んでください。継続的な英語での実習が合格への近道です！*
