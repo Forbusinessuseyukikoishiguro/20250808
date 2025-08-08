@@ -1,0 +1,169 @@
+# データ分析・BIダッシュボード構築 英語フレーズ集
+*新人エンジニア向け - 実際の業務で使える実践的フレーズ*
+
+## 🚀 プロジェクト開始・要件定義（Project Initiation）
+
+### 要件を聞く・確認する
+| 英語フレーズ | 日本語 | 使用場面 |
+|-------------|--------|----------|
+| "What are the key metrics you want to track?" | 追跡したい主要指標は何ですか？ | 要件ヒアリング |
+| "Who will be the primary users of this dashboard?" | このダッシュボードの主要ユーザーは誰ですか？ | ユーザー特定 |
+| "How often do you need the data to be refreshed?" | どのくらいの頻度でデータ更新が必要ですか？ | 更新頻度確認 |
+| "What's the expected timeline for this project?" | このプロジェクトの予定スケジュールは？ | スケジュール確認 |
+| "Are there any specific formatting requirements?" | 特定のフォーマット要件はありますか？ | 仕様確認 |
+
+### 提案・説明する
+| 英語フレーズ | 日本語 | 使用場面 |
+|-------------|--------|----------|
+| "I recommend using a bar chart for this data" | このデータには棒グラフをお勧めします | チャート提案 |
+| "Let me walk you through the proposed layout" | 提案レイアウトをご説明します | 設計説明 |
+| "This approach will improve performance" | このアプローチでパフォーマンスが向上します | 技術提案 |
+| "We can implement drill-down functionality here" | ここにドリルダウン機能を実装できます | 機能提案 |
+
+## 📊 データ収集・確認（Data Collection & Validation）
+
+### データソースについて
+| 英語フレーズ | 日本語 | 使用場面 |
+|-------------|--------|----------|
+| "Let's connect to the data source" | データソースに接続しましょう | 接続開始 |
+| "I need access to the database" | データベースへのアクセス権限が必要です | 権限要求 |
+| "The data source contains X tables" | データソースにはX個のテーブルがあります | データ構造説明 |
+| "Can you provide the data dictionary?" | データ辞書を提供していただけますか？ | 仕様書要求 |
+| "Which tables should we join for this analysis?" | この分析にはどのテーブルを結合すべきですか？ | 結合確認 |
+
+### データ品質チェック
+| 英語フレーズ | 日本語 | 使用場面 |
+|-------------|--------|----------|
+| "I found some null values in this field" | このフィールドに空値が見つかりました | 問題報告 |
+| "The data looks clean and consistent" | データはクリーンで一貫しています | 品質確認 |
+| "There are duplicate records in the dataset" | データセットに重複レコードがあります | 重複発見 |
+| "Let's validate the data before proceeding" | 進める前にデータを検証しましょう | 検証提案 |
+| "The date range spans from X to Y" | 日付範囲はXからYまでです | 期間確認 |
+
+## 🔍 分析・可視化プロセス（Analysis & Visualization）
+
+### 分析作業中
+| 英語フレーズ | 日本語 | 使用場面 |
+|-------------|--------|----------|
+| "Let me create a calculated field for this metric" | この指標の計算フィールドを作成します | 計算作成 |
+| "I'll apply a filter to narrow down the results" | 結果を絞り込むためフィルターを適用します | フィルタリング |
+| "The data shows an upward trend" | データは上昇傾向を示しています | トレンド分析 |
+| "There's a strong correlation between X and Y" | XとYの間に強い相関があります | 相関分析 |
+| "Let's group the data by category" | カテゴリー別にデータをグループ化しましょう | グループ化 |
+
+### チャート作成・調整
+| 英語フレーズ | 日本語 | 使用場面 |
+|-------------|--------|----------|
+| "I'm going to change the chart type" | チャートタイプを変更します | チャート変更 |
+| "Let's adjust the color scheme" | 色使いを調整しましょう | デザイン調整 |
+| "The axis labels need to be more readable" | 軸ラベルをもっと読みやすくする必要があります | 可読性改善 |
+| "I'll add a trend line to this chart" | このチャートにトレンドラインを追加します | トレンド追加 |
+| "Should we include a legend for this visualization?" | この可視化に凡例を含めるべきでしょうか？ | 凡例確認 |
+
+## 📈 パフォーマンス・最適化（Performance & Optimization）
+
+### パフォーマンス問題
+| 英語フレーズ | 日本語 | 使用場面 |
+|-------------|--------|----------|
+| "The dashboard is loading slowly" | ダッシュボードの読み込みが遅いです | 問題報告 |
+| "We need to optimize the query performance" | クエリパフォーマンスを最適化する必要があります | 最適化提案 |
+| "Let's create an extract to improve speed" | 速度向上のため抽出を作成しましょう | 抽出提案 |
+| "The data refresh is taking too long" | データ更新に時間がかかりすぎています | 更新問題 |
+| "I recommend using aggregated data" | 集計データの使用をお勧めします | 集計提案 |
+
+### 最適化作業
+| 英語フレーズ | 日本語 | 使用場面 |
+|-------------|--------|----------|
+| "I've optimized the calculations" | 計算を最適化しました | 最適化完了 |
+| "The performance has improved significantly" | パフォーマンスが大幅に改善しました | 改善報告 |
+| "Let's schedule the data refresh for off-peak hours" | オフピーク時間にデータ更新をスケジュールしましょう | スケジュール提案 |
+
+## 🎯 レビュー・プレゼンテーション（Review & Presentation）
+
+### 進捗報告
+| 英語フレーズ | 日本語 | 使用場面 |
+|-------------|--------|----------|
+| "The dashboard is 80% complete" | ダッシュボードは80%完成しています | 進捗報告 |
+| "I've finished the first draft" | 初回ドラフトが完成しました | 完成報告 |
+| "Here's what I've built so far" | これまでに構築したものです | 成果物紹介 |
+| "I need your feedback on this visualization" | この可視化についてフィードバックをお願いします | フィードバック要求 |
+
+### プレゼンテーション
+| 英語フレーズ | 日本語 | 使用場面 |
+|-------------|--------|----------|
+| "Let me walk through the key insights" | 主要な洞察をご説明します | 洞察説明 |
+| "This chart highlights the main trend" | このチャートは主要トレンドを強調しています | チャート説明 |
+| "As you can see from the data..." | データからわかるように... | データ説明 |
+| "The numbers indicate that..." | 数値は...を示しています | 数値説明 |
+| "Would you like me to drill down into this?" | これを詳しく掘り下げましょうか？ | 詳細確認 |
+
+### フィードバック対応
+| 英語フレーズ | 日本語 | 使用場面 |
+|-------------|--------|----------|
+| "I can modify that visualization" | その可視化を修正できます | 修正対応 |
+| "That's a great suggestion" | 素晴らしい提案ですね | 提案受入 |
+| "Let me make those changes" | その変更を行います | 変更実行 |
+| "I'll update the dashboard accordingly" | それに応じてダッシュボードを更新します | 更新約束 |
+
+## 🔧 トラブルシューティング（Troubleshooting）
+
+### 問題報告
+| 英語フレーズ | 日本語 | 使用場面 |
+|-------------|--------|----------|
+| "I'm encountering an error" | エラーが発生しています | エラー報告 |
+| "The data connection is failing" | データ接続が失敗しています | 接続問題 |
+| "Some charts are not displaying correctly" | 一部のチャートが正しく表示されません | 表示問題 |
+| "The calculated field is returning unexpected results" | 計算フィールドが予期しない結果を返しています | 計算問題 |
+
+### 問題解決
+| 英語フレーズ | 日本語 | 使用場面 |
+|-------------|--------|----------|
+| "I found the root cause of the issue" | 問題の根本原因を見つけました | 原因特定 |
+| "Let me try a different approach" | 別のアプローチを試してみます | 代替案提案 |
+| "The issue has been resolved" | 問題は解決しました | 解決報告 |
+| "I've implemented a workaround" | 回避策を実装しました | 回避策報告 |
+
+## 👥 チームコミュニケーション（Team Communication）
+
+### 協力要請
+| 英語フレーズ | 日本語 | 使用場面 |
+|-------------|--------|----------|
+| "Could you help me with this query?" | このクエリを手伝っていただけますか？ | ヘルプ要請 |
+| "I need your expertise on this analysis" | この分析についてあなたの専門知識が必要です | 専門知識要請 |
+| "Can we schedule a review session?" | レビューセッションをスケジュールできますか？ | ミーティング要請 |
+| "Would you mind double-checking this calculation?" | この計算をダブルチェックしていただけますか？ | 確認要請 |
+
+### 情報共有
+| 英語フレーズ | 日本語 | 使用場面 |
+|-------------|--------|----------|
+| "I've shared the dashboard with the team" | チームとダッシュボードを共有しました | 共有報告 |
+| "The latest version is available on the server" | 最新版がサーバーで利用可能です | バージョン通知 |
+| "I've documented the data sources and calculations" | データソースと計算を文書化しました | ドキュメント報告 |
+| "Please find the updated report attached" | 更新されたレポートを添付でご確認ください | 添付通知 |
+
+## 💡 実践のコツ
+
+### 🎯 レベル別学習法
+**初級（3ヶ月目標）**
+- まずは「データ収集・確認」セクションから開始
+- 毎日5フレーズずつ音読練習
+- 実際の作業中に意識して使ってみる
+
+**中級（6ヶ月目標）**
+- 「分析・可視化」「レビュー・プレゼン」セクションに挑戦
+- 英語のTableauチュートリアルを見ながら実践
+- チームメンバーとの会話で積極的に使用
+
+**上級（1年目標）**
+- 「トラブルシューティング」「チームコミュニケーション」まで習得
+- 英語での技術プレゼンテーションに挑戦
+- 海外のBI関連ウェビナーに参加
+
+### 📚 効果的な練習方法
+1. **シャドーイング**: 音声を真似して発音練習
+2. **ロールプレイ**: 同僚と英語での打ち合わせを想定した練習
+3. **実践投入**: 実際のプロジェクトで1日1フレーズ使用
+4. **記録**: 使ったフレーズと相手の反応をメモ
+
+---
+*このフレーズ集を使って、自信を持って英語でのBI開発業務に取り組んでください。継続的な練習が成功の鍵です！*
